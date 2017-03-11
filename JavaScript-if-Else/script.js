@@ -1,4 +1,4 @@
-var a = +prompt("Check Your Grade", "Enter Your Percentage(Out of 100)");
+var a = +prompt("Check Your Grade", " Enter Your Percentage(Out of 100) ");
 
 if (a <= 100 && a >= 80) {
     alert('You Got "A+" Grade - Very Good For Excellent Understanding');
